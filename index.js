@@ -3,7 +3,7 @@ var yurine = require('yurine');
 module.exports = function() {
   return {
     name: 'karas',
-    renderChunk: function(code) {
+    transform: function(code) {
       return yurine.parse(code);
     },
   };
