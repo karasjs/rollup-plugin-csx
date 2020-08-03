@@ -1,2 +1,2 @@
 # rollup-plugin-karas
-rollup-plugin for karas
+Rollup plugin for karas.
