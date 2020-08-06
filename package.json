@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-karas",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Rollup plugin for karas.",
   "maintainers": [
     {
@@ -14,6 +14,7 @@
     "url": "git://github.com/karasjs/rollup-plugin-karas.git"
   },
   "dependencies": {
+    "magic-string": "~0.25.7",
     "yurine": "~0.3.1"
   },
   "main": "./index",
