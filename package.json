@@ -13,6 +13,12 @@
     "type": "git",
     "url": "git://github.com/karasjs/rollup-plugin-csx.git"
   },
+  "keywords": [
+    "rollup",
+    "plugin",
+    "karas",
+    "csx"
+  ],
   "dependencies": {
     "magic-string": "~0.25.7",
     "yurine": "~0.3.1"
