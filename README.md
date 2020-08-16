@@ -1,2 +1,2 @@
-# rollup-plugin-karas
-Rollup plugin for karas.
+# rollup-plugin-csx
+Rollup plugin for csx.

@@ -1,6 +1,6 @@
 {
-  "name": "rollup-plugin-karas",
-  "version": "0.2.0",
+  "name": "rollup-plugin-csx",
+  "version": "0.1.0",
   "description": "Rollup plugin for karas.",
   "maintainers": [
     {
