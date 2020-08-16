@@ -1,7 +1,7 @@
 {
   "name": "rollup-plugin-csx",
   "version": "0.1.0",
-  "description": "Rollup plugin for karas.",
+  "description": "Rollup plugin for csx.",
   "maintainers": [
     {
       "name": "army8735",
@@ -11,7 +11,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/karasjs/rollup-plugin-karas.git"
+    "url": "git://github.com/karasjs/rollup-plugin-csx.git"
   },
   "dependencies": {
     "magic-string": "~0.25.7",
