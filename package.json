@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-csx",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Rollup plugin for csx.",
   "maintainers": [
     {
@@ -21,7 +21,7 @@
   ],
   "dependencies": {
     "magic-string": "~0.25.7",
-    "yurine": "~0.3.1"
+    "yurine": "~0.4.0"
   },
   "main": "./index",
   "engines": {
